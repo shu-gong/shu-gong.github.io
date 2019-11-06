@@ -12,5 +12,13 @@
       <link>https://shu-gong.github.io/</link>
     </image>
     
+    <item>
+      <title></title>
+      <link>https://shu-gong.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shu-gong.github.io/home/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
