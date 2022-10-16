@@ -5,12 +5,21 @@
     <link>https://shu-gong.github.io/tag/data-analysis/</link>
       <atom:link href="https://shu-gong.github.io/tag/data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Analysis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shu-gong.github.io/media/icon_hu3f9b33241afc71ed9706ba8030711431_693117_512x512_fill_lanczos_center_3.png</url>
       <title>Data Analysis</title>
       <link>https://shu-gong.github.io/tag/data-analysis/</link>
     </image>
+    
+    <item>
+      <title>Multitask Learning and EEG</title>
+      <link>https://shu-gong.github.io/project/multitask-learning/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://shu-gong.github.io/project/multitask-learning/</guid>
+      <description>&lt;p&gt;Conducted research on the multitask learning and EEG based emotion recognition and person identification&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Survey of Deep Learning in EEG</title>
