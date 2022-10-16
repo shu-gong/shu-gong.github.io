@@ -5,7 +5,7 @@
     <link>https://shu-gong.github.io/tag/source-themes/</link>
       <atom:link href="https://shu-gong.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shu-gong.github.io/media/icon_hu3f9b33241afc71ed9706ba8030711431_693117_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
@@ -13,11 +13,16 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://shu-gong.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://shu-gong.github.io/publication/preprint/</guid>
+      <title>Deep Learning in EEG: Advance of the Last Ten -Year Critical Period</title>
+      <link>https://shu-gong.github.io/publication/journal-article/</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shu-gong.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
@@ -27,16 +32,11 @@
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://shu-gong.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://shu-gong.github.io/publication/journal-article/</guid>
+      <title>An example preprint / working paper</title>
+      <link>https://shu-gong.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://shu-gong.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
