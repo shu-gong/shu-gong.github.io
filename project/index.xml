@@ -22,6 +22,24 @@
     </item>
     
     <item>
+      <title>Mouse Motion Reconstruction</title>
+      <link>https://shu-gong.github.io/project/cyborg-mouse/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shu-gong.github.io/project/cyborg-mouse/</guid>
+      <description>&lt;p&gt;Wrote a Unity3D program, developed a 3D simulated mouse, and used C# to reconstruct the activities of the electrode-implanted mouse to 3D simulated mouse in real time&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mouse Motion Reconstruction</title>
+      <link>https://shu-gong.github.io/project/motion-reconstruction/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shu-gong.github.io/project/motion-reconstruction/</guid>
+      <description>&lt;p&gt;Wrote a Unity3D program, developed a 3D simulated mouse, and used C# to reconstruct the activities of the electrode-implanted mouse to 3D simulated mouse in real time&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multitask Learning and EEG</title>
       <link>https://shu-gong.github.io/project/multitask-learning/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>

@@ -46,6 +46,10 @@
     <lastmod>2021-05-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://shu-gong.github.io/tag/data-analysis/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://shu-gong.github.io/project/neurosurgery-robot/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -54,7 +58,19 @@
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://shu-gong.github.io/project/cyborg-mouse/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shu-gong.github.io/project/motion-reconstruction/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://shu-gong.github.io/project/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shu-gong.github.io/tag/software-development/</loc>
     <lastmod>2021-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -84,10 +100,6 @@
   </url><url>
     <loc>https://shu-gong.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://shu-gong.github.io/tag/data-analysis/</loc>
-    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://shu-gong.github.io/project/multitask-learning/</loc>
