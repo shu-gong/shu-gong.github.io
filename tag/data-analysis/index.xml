@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>Cyborg Mouse</title>
-      <link>https://shu-gong.github.io/project/surgery-software/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shu-gong.github.io/project/surgery-software/</guid>
-      <description>&lt;p&gt;Performed electrode-implantation neurosurgery on mice, built a signal acquisition system to collect their neural signals and motions, and analysed the data from mice using deep learning models.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Mouse Motion Reconstruction</title>
       <link>https://shu-gong.github.io/project/motion-reconstruction/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
