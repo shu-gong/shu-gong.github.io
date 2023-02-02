@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://shu-gong.github.io/sitemap.xml
