@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Shu Gong</title>
-    <link>https://shu-gong.github.io/publication_types/</link>
-      <atom:link href="https://shu-gong.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/</link>
+      <atom:link href="http://localhost:1313/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shu-gong.github.io/media/icon_hu3f9b33241afc71ed9706ba8030711431_693117_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publication_types</title>
-      <link>https://shu-gong.github.io/publication_types/</link>
+      <link>http://localhost:1313/publication_types/</link>
     </image>
     
   </channel>

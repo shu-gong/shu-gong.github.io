@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Shu Gong</title>
-    <link>https://shu-gong.github.io/publication/</link>
-      <atom:link href="https://shu-gong.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shu-gong.github.io/media/icon_hu3f9b33241afc71ed9706ba8030711431_693117_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://shu-gong.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>Deep Learning in EEG: Advance of the Last Ten -Year Critical Period</title>
-      <link>https://shu-gong.github.io/publication/gong2021deep/</link>
+      <link>http://localhost:1313/publication/gong2021deep/</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://shu-gong.github.io/publication/gong2021deep/</guid>
+      <guid>http://localhost:1313/publication/gong2021deep/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

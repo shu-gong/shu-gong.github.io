@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mechanics | Shu Gong</title>
-    <link>https://shu-gong.github.io/tag/mechanics/</link>
-      <atom:link href="https://shu-gong.github.io/tag/mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/mechanics/</link>
+      <atom:link href="http://localhost:1313/tag/mechanics/index.xml" rel="self" type="application/rss+xml" />
     <description>Mechanics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shu-gong.github.io/media/icon_hu3f9b33241afc71ed9706ba8030711431_693117_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Mechanics</title>
-      <link>https://shu-gong.github.io/tag/mechanics/</link>
+      <link>http://localhost:1313/tag/mechanics/</link>
     </image>
     
     <item>
       <title>Invasive Brain-Machine Interface Robot</title>
-      <link>https://shu-gong.github.io/project/neurosurgery-robot/</link>
+      <link>http://localhost:1313/project/neurosurgery-robot/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://shu-gong.github.io/project/neurosurgery-robot/</guid>
+      <guid>http://localhost:1313/project/neurosurgery-robot/</guid>
       <description>&lt;p&gt;Designed (Solidworks), manufactured (3D Print &amp;amp; CNC), and assembled (cameras with light modules+ step motors + Arduino) a precise automated neurosurgery robot.&lt;/p&gt;
 </description>
     </item>
